@@ -1,0 +1,82 @@
+[
+  {
+    "Year": 2019,
+    "City": "Moscow",
+    "Value": 268549.6121
+  },
+  {
+    "Year": 2019,
+    "City": "Saint-Petersburg",
+    "Value": 422274.1988
+  },
+  {
+    "Year": 2019,
+    "City": "Volgograd",
+    "Value": 295936.3193
+  },
+  {
+    "Year": 2019,
+    "City": "Ekaterinburg",
+    "Value": 443746.7732
+  },
+  {
+    "Year": 2020,
+    "City": "Moscow",
+    "Value": 741951.7385
+  },
+  {
+    "Year": 2020,
+    "City": "Saint-Petersburg",
+    "Value": 318810.3779
+  },
+  {
+    "Year": 2020,
+    "City": "Volgograd",
+    "Value": 748666.7055
+  },
+  {
+    "Year": 2020,
+    "City": "Ekaterinburg",
+    "Value": 349583.0593
+  },
+  {
+    "Year": 2021,
+    "City": "Moscow",
+    "Value": 481025.6756
+  },
+  {
+    "Year": 2021,
+    "City": "Saint-Petersburg",
+    "Value": 325282.6813
+  },
+  {
+    "Year": 2021,
+    "City": "Volgograd",
+    "Value": 265404.3911
+  },
+  {
+    "Year": 2021,
+    "City": "Ekaterinburg",
+    "Value": 727678.4662
+  },
+  {
+    "Year": 2022,
+    "City": "Moscow",
+    "Value": 376871.1521
+  },
+  {
+    "Year": 2022,
+    "City": "Saint-Petersburg",
+    "Value": 294065.0799
+  },
+  {
+    "Year": 2022,
+    "City": "Volgograd",
+    "Value": 702741.557
+  },
+  {
+    "Year": 2022,
+    "City": "Ekaterinburg",
+    "Value": 307434.2403
+  }
+]

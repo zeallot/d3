@@ -1,0 +1,8 @@
+.tooltip {
+    box-shadow: -2px 1px 21px 0px rgba(34, 60, 80, 0.2);
+    background: white;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100px;
+    cursor: default;
+}
